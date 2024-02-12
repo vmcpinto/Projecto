@@ -1,4 +1,0 @@
-# Projecto
-## Jogo em Javascript
-
-
